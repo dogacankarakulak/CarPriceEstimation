@@ -1,2 +1,2 @@
 # CarPriceEstimation
-Project partner @github/berkgencarslan
+Project partner @berkgencarslan
